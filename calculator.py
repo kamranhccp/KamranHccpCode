@@ -1,3 +1,4 @@
+ #CODE Distributed by @kamranhccp
 num1 = eval(input("Enter your First Number: "))
 num2 = eval(input("Enter your Second Number: "))
 oper = input("Enter your Opertion(+,-,*,/,%): ")
@@ -13,3 +14,4 @@ elif oper == "%":
     print("Your Reminder is ", (num1 % num2), ".")
 else:
     print("Invalid Input!")
+    #CODE Distributed by @kamranhccp
